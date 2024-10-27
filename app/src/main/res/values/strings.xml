@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ex013</string>
+    <string name="cpf">Cpf</string>
+    <string name="nome">Nome</string>
+    <string name="button_buscar">Buscar</string>
+    <string name="return_button">voltar</string>
+    <string name="resultado">Origem</string>
+    <string name="author_data">Renan Santos Carvalho\n1110482313034</string>
+</resources>
